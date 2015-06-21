@@ -13,7 +13,7 @@ npm install
 	# NOTE: will ask for heroku credentials
 	heroku login
 	heroku keys:add
-	heroku create your-app-name-here
+  heroku create your-app-name-here
 
 
 #Steps to push to github or to heroku (for deployment)
